@@ -1,0 +1,1 @@
+![Cobertura de Tests](src/docs/TestCoverageLoop.png)
